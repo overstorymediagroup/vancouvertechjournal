@@ -1,0 +1,11 @@
+.woocommerce-account .woocommerce-MyAccount-navigation {
+    display: none !important;
+}
+.woocommerce-account .woocommerce-MyAccount-content {
+    float: none;
+    width: 700px;
+    margin: 0 auto;
+}
+.woocommerce-account .entry-header {
+    text-align: center;
+}
